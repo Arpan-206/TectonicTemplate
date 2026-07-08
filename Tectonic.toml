@@ -1,0 +1,9 @@
+[doc]
+name = "main"
+bundle = "https://relay.fullyjustified.net/default_bundle_v33.tar"
+
+[[output]]
+name = "main"
+type = "pdf"
+tex_format = "latex"
+shell_escape = false
